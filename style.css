@@ -1,0 +1,27 @@
+.button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #ddd;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: #bbb;
+  }
+
+  .primary-btn {
+    background-color: blue;
+    color: white;
+  }
+
+  .primary-btn:hover {
+    background-color: darkblue;
+  }
+  .more {
+    display: none;
+  }
+  .to-do-list{
+    cursor: pointer;
+  }
